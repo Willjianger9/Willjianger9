@@ -1,17 +1,14 @@
 
 # Hey, I'm William! 👋
 
-🌟 **First-Year `Computer Science & Engineering` Student at `UCLA`**  
+🌟 **First-Year `Computer Science & Engineering` student at `UCLA`**  
 🚀 **Passionate about `Fullstack Web Development`, `Machine Learning`, and `Computer Science Research`**
 
 
 ---
 
-### 🔭 Current Focus
-I'm currently working on **`Computer Vision`** research at the **`Vision and Image Processing (VIP) Lab`** at the **`University of Waterloo`**.
-
-### 🌐 Explore My Work
-Check out my projects on my [**`personal website`**](https://willjianger9.github.io/)!
+🔭 I'm currently working on **`Computer Vision`** research at the **`Vision and Image Processing (VIP) Lab`** at the **`University of Waterloo`**.
+🌐 Check out my projects on my [**`personal website`**](https://willjianger9.github.io/)!
 
 
 
