@@ -1,5 +1,5 @@
 
-# Hey, I'm William! 👋
+## Hi, I'm William! 👋
 
 🌟 **First-Year `Computer Science & Engineering` student at `UCLA`**  
 🚀 **Passionate about `Fullstack Web Development`, `Machine Learning`, and `Computer Science Research`** <br>
