@@ -3,9 +3,6 @@
 
 🌟 **First-Year `Computer Science & Engineering` student at `UCLA`**  
 🚀 **Passionate about `Fullstack Web Development`, `Machine Learning`, and `Computer Science Research`**
-
----
-
 🔭 I'm currently working on **`Computer Vision`** research at the **`Vision and Image Processing (VIP) Lab`** at the **`University of Waterloo`** <br>
 🌐 Check out my projects on my [**`personal website`**](https://willjianger9.github.io/)!
 
