@@ -13,7 +13,7 @@
 
 🌐 **Discover More:**  
 - 📂 Check out my projects on my [**`personal website`**](https://willjianger9.github.io/)  
-- 📫 Connect with me on [**LinkedIn**](https://linkedin.com/in/williamjiang)  
+- 📫 Connect with me on [**`LinkedIn`**](https://linkedin.com/in/williamjiang)  
 
 ✨ Always open to collaboration and exciting ideas. Let’s build something amazing together!
 
