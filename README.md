@@ -1,7 +1,7 @@
 
 # Hi, I'm William! 👋
 
-🌟 **Second-Year `Computer Science & Engineering` Student at `UCLA`**  
+🌟 **Computer Science & Engineering` Student at `UCLA`**  
 🚀 **Passionate about `Fullstack Web Development`, `Machine Learning`, and `Computer Science Research`**  
 
 🔬 **Current Projects:**  
